@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="theme_bottom" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/saffreon</item>
+        <item name="android:textColorSecondary">@color/blacklow</item>
+    </style>
+</resources>

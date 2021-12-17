@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122686740368",
+    "project_id": "fir-otpverification-7e1a9",
+    "storage_bucket": "fir-otpverification-7e1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122686740368:android:f3deb7fd1879d33b25c515",
+        "android_client_info": {
+          "package_name": "com.pravin.barcodeapp.firebaseotpverification_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122686740368-m2eq9jqqvmtjdc89suganh13egmtv6sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pravin.barcodeapp.firebaseotpverification_android",
+            "certificate_hash": "feb7aa1c97ec63d7f8fa4e693c25f3e61c3b1a84"
+          }
+        },
+        {
+          "client_id": "122686740368-anj3t6r19305f9lkashe7frunfcrg9qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4JLUiQ8-OOa-x0GZJ4rl1_KxvDnTkvDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122686740368-anj3t6r19305f9lkashe7frunfcrg9qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
