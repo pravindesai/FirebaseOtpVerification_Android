@@ -8,6 +8,7 @@
     android:layout_height="match_parent"
     tools:context=".fragments.homefragment">
 
+
     <ScrollView
         android:scrollbars="none"
         android:layout_width="match_parent"
@@ -30,20 +31,20 @@
             <include layout="@layout/heading1"/>
 
             <HorizontalScrollView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:scrollbars="none">
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
 
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="10dp">
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
 
-        <include layout="@layout/milk500"/>
-        <include layout="@layout/milk1000"/>
+                    <include layout="@layout/milk500"/>
+                    <include layout="@layout/milk1000"/>
 
-    </LinearLayout>
+                </LinearLayout>
             </HorizontalScrollView>
 
             <include layout="@layout/heading2"/>
